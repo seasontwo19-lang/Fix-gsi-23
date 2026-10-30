@@ -1,0 +1,2 @@
+system.img filter=lfs diff=lfs merge=lfs -text
+system_raw.img filter=lfs diff=lfs merge=lfs -text
